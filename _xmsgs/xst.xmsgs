@@ -5,7 +5,7 @@
      behavior or data corruption.  It is strongly advised that
      users do not edit the contents of this file. -->
 <messages>
-<msg type="warning" file="Xst" num="2039" delta="new" >Unit <arg fmt="%s" index="1">comparatore_2in</arg>: <arg fmt="%d" index="2">1</arg> multi-source signal is replaced by logic (pull-up <arg fmt="%s" index="3">yes</arg>): </msg>
+<msg type="warning" file="Xst" num="2040" delta="old" >Unit <arg fmt="%s" index="1">comparatore_4in</arg>: <arg fmt="%d" index="2">3</arg> multi-source signals are replaced by logic (pull-up <arg fmt="%s" index="3">yes</arg>): </msg>
 
 </messages>
 

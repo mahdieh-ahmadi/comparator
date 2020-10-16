@@ -35,129 +35,222 @@
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="comparatore_2in.ngc"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="comparatore_2in.ngd"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="comparatore_2in.ngr"/>
-    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="comparatore_2in.pad"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="comparatore_2in.par" xil_pn:subbranch="Par"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="comparatore_2in.pcf" xil_pn:subbranch="Map"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="comparatore_2in.prj"/>
-    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="comparatore_2in.ptwx"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="comparatore_2in.stx"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="comparatore_2in.syr"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="comparatore_2in.twr" xil_pn:subbranch="Par"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="comparatore_2in.twx" xil_pn:subbranch="Par"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="comparatore_2in.unroutes" xil_pn:subbranch="Par"/>
-    <file xil_pn:fileType="FILE_XPI" xil_pn:name="comparatore_2in.xpi"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="comparatore_2in.xst"/>
     <file xil_pn:fileType="FILE_NCD" xil_pn:name="comparatore_2in_guide.ncd" xil_pn:origination="imported"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="comparatore_2in_map.map" xil_pn:subbranch="Map"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="comparatore_2in_map.mrp" xil_pn:subbranch="Map"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="comparatore_2in_map.ncd" xil_pn:subbranch="Map"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="comparatore_2in_map.ngm" xil_pn:subbranch="Map"/>
-    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="comparatore_2in_map.xrpt"/>
-    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="comparatore_2in_ngdbuild.xrpt"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="comparatore_2in_pad.csv" xil_pn:subbranch="Par"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="comparatore_2in_pad.txt" xil_pn:subbranch="Par"/>
-    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="comparatore_2in_par.xrpt"/>
     <file xil_pn:fileType="FILE_HTML" xil_pn:name="comparatore_2in_summary.html"/>
-    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="comparatore_2in_summary.xml"/>
-    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="comparatore_2in_usage.xml"/>
     <file xil_pn:fileType="FILE_XRPT" xil_pn:name="comparatore_2in_xst.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="comparatore_4in.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="comparatore_4in.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="comparatore_4in.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="comparatore_4in.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="comparatore_4in.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="comparatore_4in.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="comparatore_4in.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="comparatore_4in.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="comparatore_4in.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="comparatore_4in.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="comparatore_4in.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="comparatore_4in.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="comparatore_4in.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="comparatore_4in.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="comparatore_4in.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="comparatore_4in.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="comparatore_4in.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="comparatore_4in.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="comparatore_4in.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="comparatore_4in_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="comparatore_4in_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="comparatore_4in_isim_beh.exe"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="comparatore_4in_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="comparatore_4in_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="comparatore_4in_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="comparatore_4in_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="comparatore_4in_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="comparatore_4in_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="comparatore_4in_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="comparatore_4in_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="comparatore_4in_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="comparatore_4in_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="comparatore_4in_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="comparatore_4in_usage.xml"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="comparatore_4in_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="test_comparatore_2in_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="test_comparatore_2in_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="test_comparatore_2in_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="test_comparatore_4in_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="test_comparatore_4in_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="test_comparatore_4in_isim_beh.wdb"/>
     <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
     <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
     <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
   </files>
 
   <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1602868258" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1602868258">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1602874599" xil_pn:in_ck="-41859124167130234" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1602874599">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="comparatore_2in.v"/>
+      <outfile xil_pn:name="comparatore_4in.v"/>
+      <outfile xil_pn:name="test_comparatore_2in.v"/>
+      <outfile xil_pn:name="test_comparatore_4in.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1602874599" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="2053829744948009014" xil_pn:start_ts="1602874599">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1602874599" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="251093629234667636" xil_pn:start_ts="1602874599">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1602874180" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-4741356630682511289" xil_pn:start_ts="1602874180">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1602874599" xil_pn:in_ck="-41859124167130234" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1602874599">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="comparatore_2in.v"/>
+      <outfile xil_pn:name="comparatore_4in.v"/>
+      <outfile xil_pn:name="test_comparatore_2in.v"/>
+      <outfile xil_pn:name="test_comparatore_4in.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1602874602" xil_pn:in_ck="-41859124167130234" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="611694452115821074" xil_pn:start_ts="1602874599">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="test_comparatore_4in_beh.prj"/>
+      <outfile xil_pn:name="test_comparatore_4in_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1602874602" xil_pn:in_ck="-4719567409046705365" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-3694628807228888139" xil_pn:start_ts="1602874602">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="test_comparatore_4in_isim_beh.wdb"/>
+    </transform>
     <transform xil_pn:end_ts="1602867034" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1602867033">
       <status xil_pn:value="SuccessfullyRun"/>
     </transform>
-    <transform xil_pn:end_ts="1602867034" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-3594684022346962541" xil_pn:start_ts="1602867034">
+    <transform xil_pn:end_ts="1602874408" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="7901278937539699349" xil_pn:start_ts="1602874408">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1602867034" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-4741449453651315195" xil_pn:start_ts="1602867034">
+    <transform xil_pn:end_ts="1602874408" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-4741356630682511289" xil_pn:start_ts="1602874408">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1602867034" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1602867034">
+    <transform xil_pn:end_ts="1602874408" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1602874408">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1602867034" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-7419028458811605291" xil_pn:start_ts="1602867034">
+    <transform xil_pn:end_ts="1602874408" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="4076934501075056599" xil_pn:start_ts="1602874408">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1602867034" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="-5609353907947751920" xil_pn:start_ts="1602867034">
+    <transform xil_pn:end_ts="1602874408" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="-5609353907947751920" xil_pn:start_ts="1602874408">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1602867034" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-7256889366540258673" xil_pn:start_ts="1602867034">
+    <transform xil_pn:end_ts="1602874408" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-7256796543571454767" xil_pn:start_ts="1602874408">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1602867058" xil_pn:in_ck="3782658596424872713" xil_pn:name="TRANEXT_xstsynthesize_spartan6" xil_pn:prop_ck="-5428903517646756723" xil_pn:start_ts="1602867034">
+    <transform xil_pn:end_ts="1602874417" xil_pn:in_ck="7518465902704503348" xil_pn:name="TRANEXT_xstsynthesize_spartan6" xil_pn:prop_ck="-8797899227527223281" xil_pn:start_ts="1602874408">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="WarningsGenerated"/>
       <status xil_pn:value="ReadyToRun"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
       <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
-      <outfile xil_pn:name="comparatore_2in.lso"/>
-      <outfile xil_pn:name="comparatore_2in.ngc"/>
       <outfile xil_pn:name="comparatore_2in.ngr"/>
-      <outfile xil_pn:name="comparatore_2in.prj"/>
-      <outfile xil_pn:name="comparatore_2in.stx"/>
-      <outfile xil_pn:name="comparatore_2in.syr"/>
-      <outfile xil_pn:name="comparatore_2in.xst"/>
-      <outfile xil_pn:name="comparatore_2in_xst.xrpt"/>
+      <outfile xil_pn:name="comparatore_4in.lso"/>
+      <outfile xil_pn:name="comparatore_4in.ngc"/>
+      <outfile xil_pn:name="comparatore_4in.ngr"/>
+      <outfile xil_pn:name="comparatore_4in.prj"/>
+      <outfile xil_pn:name="comparatore_4in.stx"/>
+      <outfile xil_pn:name="comparatore_4in.syr"/>
+      <outfile xil_pn:name="comparatore_4in.xst"/>
+      <outfile xil_pn:name="comparatore_4in_xst.xrpt"/>
       <outfile xil_pn:name="webtalk_pn.xml"/>
       <outfile xil_pn:name="xst"/>
     </transform>
-    <transform xil_pn:end_ts="1602867059" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-9084295637778115929" xil_pn:start_ts="1602867058">
+    <transform xil_pn:end_ts="1602869168" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-9084295637778113751" xil_pn:start_ts="1602869168">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1602867069" xil_pn:in_ck="5691283069456368875" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-5349366357168562298" xil_pn:start_ts="1602867059">
+    <transform xil_pn:end_ts="1602874423" xil_pn:in_ck="-7615152198430354056" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="2824887581977509960" xil_pn:start_ts="1602874417">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="_ngo"/>
       <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
-      <outfile xil_pn:name="comparatore_2in.bld"/>
-      <outfile xil_pn:name="comparatore_2in.ngd"/>
-      <outfile xil_pn:name="comparatore_2in_ngdbuild.xrpt"/>
+      <outfile xil_pn:name="comparatore_4in.bld"/>
+      <outfile xil_pn:name="comparatore_4in.ngd"/>
+      <outfile xil_pn:name="comparatore_4in_ngdbuild.xrpt"/>
     </transform>
-    <transform xil_pn:end_ts="1602867081" xil_pn:in_ck="5691283069456368876" xil_pn:name="TRANEXT_map_spartan6" xil_pn:prop_ck="304711778406361947" xil_pn:start_ts="1602867069">
+    <transform xil_pn:end_ts="1602874431" xil_pn:in_ck="5116734482278073306" xil_pn:name="TRANEXT_map_spartan6" xil_pn:prop_ck="304711778406361947" xil_pn:start_ts="1602874423">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
-      <outfile xil_pn:name="comparatore_2in.pcf"/>
-      <outfile xil_pn:name="comparatore_2in_map.map"/>
-      <outfile xil_pn:name="comparatore_2in_map.mrp"/>
-      <outfile xil_pn:name="comparatore_2in_map.ncd"/>
-      <outfile xil_pn:name="comparatore_2in_map.ngm"/>
-      <outfile xil_pn:name="comparatore_2in_map.xrpt"/>
-      <outfile xil_pn:name="comparatore_2in_summary.xml"/>
-      <outfile xil_pn:name="comparatore_2in_usage.xml"/>
+      <outfile xil_pn:name="comparatore_4in.pcf"/>
+      <outfile xil_pn:name="comparatore_4in_map.map"/>
+      <outfile xil_pn:name="comparatore_4in_map.mrp"/>
+      <outfile xil_pn:name="comparatore_4in_map.ncd"/>
+      <outfile xil_pn:name="comparatore_4in_map.ngm"/>
+      <outfile xil_pn:name="comparatore_4in_map.xrpt"/>
+      <outfile xil_pn:name="comparatore_4in_summary.xml"/>
+      <outfile xil_pn:name="comparatore_4in_usage.xml"/>
     </transform>
-    <transform xil_pn:end_ts="1602867101" xil_pn:in_ck="6706861560224655877" xil_pn:name="TRANEXT_par_spartan6" xil_pn:prop_ck="-5189723633469429705" xil_pn:start_ts="1602867081">
+    <transform xil_pn:end_ts="1602874443" xil_pn:in_ck="6591287870909894892" xil_pn:name="TRANEXT_par_spartan6" xil_pn:prop_ck="-5189723633469429705" xil_pn:start_ts="1602874431">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
-      <outfile xil_pn:name="comparatore_2in.ncd"/>
-      <outfile xil_pn:name="comparatore_2in.pad"/>
-      <outfile xil_pn:name="comparatore_2in.par"/>
-      <outfile xil_pn:name="comparatore_2in.ptwx"/>
-      <outfile xil_pn:name="comparatore_2in.unroutes"/>
-      <outfile xil_pn:name="comparatore_2in.xpi"/>
-      <outfile xil_pn:name="comparatore_2in_pad.csv"/>
-      <outfile xil_pn:name="comparatore_2in_pad.txt"/>
-      <outfile xil_pn:name="comparatore_2in_par.xrpt"/>
+      <outfile xil_pn:name="comparatore_4in.ncd"/>
+      <outfile xil_pn:name="comparatore_4in.pad"/>
+      <outfile xil_pn:name="comparatore_4in.par"/>
+      <outfile xil_pn:name="comparatore_4in.ptwx"/>
+      <outfile xil_pn:name="comparatore_4in.unroutes"/>
+      <outfile xil_pn:name="comparatore_4in.xpi"/>
+      <outfile xil_pn:name="comparatore_4in_pad.csv"/>
+      <outfile xil_pn:name="comparatore_4in_pad.txt"/>
+      <outfile xil_pn:name="comparatore_4in_par.xrpt"/>
     </transform>
-    <transform xil_pn:end_ts="1602867101" xil_pn:in_ck="5691283069456368744" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416185" xil_pn:start_ts="1602867095">
+    <transform xil_pn:end_ts="1602874443" xil_pn:in_ck="3161403336334858578" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416185" xil_pn:start_ts="1602874438">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
-      <outfile xil_pn:name="comparatore_2in.twr"/>
-      <outfile xil_pn:name="comparatore_2in.twx"/>
+      <outfile xil_pn:name="comparatore_4in.twr"/>
+      <outfile xil_pn:name="comparatore_4in.twx"/>
     </transform>
   </transforms>
 

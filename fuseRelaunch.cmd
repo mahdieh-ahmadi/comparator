@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/university/3991/fpga/homeworks/comparator/comparator/test_comparatore_4in_isim_beh.exe" -prj "E:/university/3991/fpga/homeworks/comparator/comparator/test_comparatore_4in_beh.prj" "work.test_comparatore_4in" "work.glbl" 

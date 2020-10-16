@@ -47,6 +47,30 @@ module test_comparatore_2in;
 		#100;
         
 		// Add stimulus here
+		
+		a = 1;
+		b = 0;
+
+		// Wait 100 ns for global reset to finish
+		#100;
+		
+		a = 0;
+		b = 1;
+
+		// Wait 100 ns for global reset to finish
+		#100;
+		
+		a = 1;
+		b = 1;
+
+		// Wait 100 ns for global reset to finish
+		#100;
+		
+		a = 0;
+		b = 0;
+
+		// Wait 100 ns for global reset to finish
+		#100;
 
 	end
       
