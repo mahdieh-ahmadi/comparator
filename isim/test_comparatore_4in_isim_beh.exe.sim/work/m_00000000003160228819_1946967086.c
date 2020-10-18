@@ -38,7 +38,7 @@ static void Gate_33_0(char *t0)
     char *t10;
     char *t11;
 
-LAB0:    t1 = (t0 + 3648U);
+LAB0:    t1 = (t0 + 3328U);
     t2 = *((char **)t1);
     if (t2 == 0)
         goto LAB2;
@@ -51,24 +51,24 @@ LAB2:    t2 = (t0 + 1848U);
     t4 = *((char **)t2);
     t2 = (t0 + 2168U);
     t5 = *((char **)t2);
-    t2 = (t0 + 4048);
+    t2 = (t0 + 3728);
     t6 = (t2 + 56U);
     t7 = *((char **)t6);
     t8 = (t7 + 56U);
     t9 = *((char **)t8);
     xsi_vlog_AndGate(t9, 3, t3, t4, t5);
-    t10 = (t0 + 4048);
+    t10 = (t0 + 3728);
     xsi_driver_vfirst_trans(t10, 0, 0);
-    t11 = (t0 + 3968);
+    t11 = (t0 + 3648);
     *((int *)t11) = 1;
 
 LAB1:    return;
 }
 
 
-extern void work_m_00000000000191174836_1946967086_init()
+extern void work_m_00000000003160228819_1946967086_init()
 {
 	static char *pe[] = {(void *)Gate_33_0};
-	xsi_register_didat("work_m_00000000000191174836_1946967086", "isim/test_comparatore_4in_isim_beh.exe.sim/work/m_00000000000191174836_1946967086.didat");
+	xsi_register_didat("work_m_00000000003160228819_1946967086", "isim/test_comparatore_4in_isim_beh.exe.sim/work/m_00000000003160228819_1946967086.didat");
 	xsi_register_executes(pe);
 }

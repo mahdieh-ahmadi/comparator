@@ -37,3 +37,13 @@ ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx4-tqg144-3 comparatore
 map -intstyle ise -p xc6slx4-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o comparatore_4in_map.ncd comparatore_4in.ngd comparatore_4in.pcf 
 par -w -intstyle ise -ol high -mt off comparatore_4in_map.ncd comparatore_4in.ncd comparatore_4in.pcf 
 trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml comparatore_4in.twx comparatore_4in.ncd -o comparatore_4in.twr comparatore_4in.pcf 
+xst -intstyle ise -ifn "E:/university/3991/fpga/homeworks/comparator/comparator/comparatore_4in.xst" -ofn "E:/university/3991/fpga/homeworks/comparator/comparator/comparatore_4in.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx4-tqg144-3 comparatore_4in.ngc comparatore_4in.ngd  
+map -intstyle ise -p xc6slx4-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o comparatore_4in_map.ncd comparatore_4in.ngd comparatore_4in.pcf 
+par -w -intstyle ise -ol high -mt off comparatore_4in_map.ncd comparatore_4in.ncd comparatore_4in.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml comparatore_4in.twx comparatore_4in.ncd -o comparatore_4in.twr comparatore_4in.pcf 
+xst -intstyle ise -ifn "E:/university/3991/fpga/homeworks/comparator/comparator/comparatore_4in.xst" -ofn "E:/university/3991/fpga/homeworks/comparator/comparator/comparatore_4in.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx4-tqg144-3 comparatore_4in.ngc comparatore_4in.ngd  
+map -intstyle ise -p xc6slx4-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o comparatore_4in_map.ncd comparatore_4in.ngd comparatore_4in.pcf 
+par -w -intstyle ise -ol high -mt off comparatore_4in_map.ncd comparatore_4in.ncd comparatore_4in.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml comparatore_4in.twx comparatore_4in.ncd -o comparatore_4in.twr comparatore_4in.pcf 

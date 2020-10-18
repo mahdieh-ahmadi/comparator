@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2020-10-17T09:12:29</DateModified>
+  <DateModified>2020-10-18T18:37:30</DateModified>
   <ModuleName>comparatore_4in</ModuleName>
-  <SummaryTimeStamp>Unknown</SummaryTimeStamp>
+  <SummaryTimeStamp>2020-10-18T18:37:22</SummaryTimeStamp>
   <SavedFilePath>E:/university/3991/fpga/homeworks/comparator/comparator/iseconfig/comparatore_4in.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>E:/university/3991/fpga/homeworks/comparator/comparator</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>E:/university/3991/fpga/homeworks/comparator/comparator\</ImplementationReportsDirectory>
   <DateInitialized>2020-10-17T09:12:27</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

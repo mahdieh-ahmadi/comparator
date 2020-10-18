@@ -109,7 +109,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1602874599" xil_pn:in_ck="-41859124167130234" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1602874599">
+    <transform xil_pn:end_ts="1603033687" xil_pn:in_ck="-41859124167130234" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1603033687">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="comparatore_2in.v"/>
@@ -129,7 +129,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1602874599" xil_pn:in_ck="-41859124167130234" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1602874599">
+    <transform xil_pn:end_ts="1603033687" xil_pn:in_ck="-41859124167130234" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1603033687">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="comparatore_2in.v"/>
@@ -137,7 +137,7 @@
       <outfile xil_pn:name="test_comparatore_2in.v"/>
       <outfile xil_pn:name="test_comparatore_4in.v"/>
     </transform>
-    <transform xil_pn:end_ts="1602874602" xil_pn:in_ck="-41859124167130234" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="611694452115821074" xil_pn:start_ts="1602874599">
+    <transform xil_pn:end_ts="1603033694" xil_pn:in_ck="-41859124167130234" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="611694452115821074" xil_pn:start_ts="1603033687">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
@@ -149,7 +149,7 @@
       <outfile xil_pn:name="test_comparatore_4in_isim_beh.exe"/>
       <outfile xil_pn:name="xilinxsim.ini"/>
     </transform>
-    <transform xil_pn:end_ts="1602874602" xil_pn:in_ck="-4719567409046705365" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-3694628807228888139" xil_pn:start_ts="1602874602">
+    <transform xil_pn:end_ts="1603033694" xil_pn:in_ck="-38280214019401314" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-3694628807228888139" xil_pn:start_ts="1603033694">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
@@ -186,7 +186,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1602874417" xil_pn:in_ck="7518465902704503348" xil_pn:name="TRANEXT_xstsynthesize_spartan6" xil_pn:prop_ck="-8797899227527223281" xil_pn:start_ts="1602874408">
+    <transform xil_pn:end_ts="1603033660" xil_pn:in_ck="7518465902704503348" xil_pn:name="TRANEXT_xstsynthesize_spartan6" xil_pn:prop_ck="-8797899227527223281" xil_pn:start_ts="1603033651">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="WarningsGenerated"/>
       <status xil_pn:value="ReadyToRun"/>
@@ -209,18 +209,16 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1602874423" xil_pn:in_ck="-7615152198430354056" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="2824887581977509960" xil_pn:start_ts="1602874417">
+    <transform xil_pn:end_ts="1603033666" xil_pn:in_ck="-7615152198430354056" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="2824887581977509960" xil_pn:start_ts="1603033660">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
-      <status xil_pn:value="OutOfDateForOutputs"/>
-      <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="_ngo"/>
       <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
       <outfile xil_pn:name="comparatore_4in.bld"/>
       <outfile xil_pn:name="comparatore_4in.ngd"/>
       <outfile xil_pn:name="comparatore_4in_ngdbuild.xrpt"/>
     </transform>
-    <transform xil_pn:end_ts="1602874431" xil_pn:in_ck="5116734482278073306" xil_pn:name="TRANEXT_map_spartan6" xil_pn:prop_ck="304711778406361947" xil_pn:start_ts="1602874423">
+    <transform xil_pn:end_ts="1603033673" xil_pn:in_ck="5116734482278073306" xil_pn:name="TRANEXT_map_spartan6" xil_pn:prop_ck="304711778406361947" xil_pn:start_ts="1603033666">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
@@ -233,7 +231,7 @@
       <outfile xil_pn:name="comparatore_4in_summary.xml"/>
       <outfile xil_pn:name="comparatore_4in_usage.xml"/>
     </transform>
-    <transform xil_pn:end_ts="1602874443" xil_pn:in_ck="6591287870909894892" xil_pn:name="TRANEXT_par_spartan6" xil_pn:prop_ck="-5189723633469429705" xil_pn:start_ts="1602874431">
+    <transform xil_pn:end_ts="1603033685" xil_pn:in_ck="6591287870909894892" xil_pn:name="TRANEXT_par_spartan6" xil_pn:prop_ck="-5189723633469429705" xil_pn:start_ts="1603033673">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
@@ -247,7 +245,7 @@
       <outfile xil_pn:name="comparatore_4in_pad.txt"/>
       <outfile xil_pn:name="comparatore_4in_par.xrpt"/>
     </transform>
-    <transform xil_pn:end_ts="1602874443" xil_pn:in_ck="3161403336334858578" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416185" xil_pn:start_ts="1602874438">
+    <transform xil_pn:end_ts="1603033685" xil_pn:in_ck="3161403336334858578" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416185" xil_pn:start_ts="1603033680">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
